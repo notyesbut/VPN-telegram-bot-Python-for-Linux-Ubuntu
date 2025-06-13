@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-SafeZone Hub - Production VPN Telegram Bot
-Advanced multi-protocol VPN with DPI bypass capabilities
-"""
 import os
 import json
 import subprocess
